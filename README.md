@@ -9,7 +9,7 @@
 
 ### Executive Summary
 
-As an Artificial Intelligence Engineer and Head of AI, I specialize in driving complete AI business transformations. I have successfully spearheaded the AI integration strategy for **5 different startup companies**, managing the entire lifecycle from the very first conceptualization of introducing AI, all the way to deploying enterprise-grade machine learning and LLM architectures. My expertise lies in architecting scalable pipelines, deploying RAG systems, and executing visionary AI strategies that fundamentally change how companies operate.
+As an Artificial Intelligence Engineer and Head of AI, I specialize in driving complete AI business transformations. I have successfully spearheaded the AI integration strategy for **6 different startup companies**, managing the entire lifecycle from the very first conceptualization of introducing AI, all the way to deploying enterprise-grade machine learning and LLM architectures. My expertise lies in architecting scalable pipelines, deploying RAG systems, and executing visionary AI strategies that fundamentally change how companies operate.
 
 ### Startup Leadership Highlights
 
@@ -18,6 +18,7 @@ As an Artificial Intelligence Engineer and Head of AI, I specialize in driving c
 - **[Tebaba AI](http://tebaba.ai/):** Led the core AI strategy from conceptualization, directing the integration of advanced intelligent systems to power their platform ([LinkedIn](https://www.linkedin.com/company/tebaba/)).
 - **[Rabhan AI](https://rabhan.ai/):** Architected and deployed end-to-end machine learning pipelines, fundamentally transforming their business model with AI capabilities ([LinkedIn](https://www.linkedin.com/company/rabhan-ai/)).
 - **[Mohark AI](https://mohark.ai/):** Directed the design and implementation of advanced AI solutions, engineering robust architectures that drive autonomous enterprise capabilities ([LinkedIn](https://www.linkedin.com/company/mohark-ai/)).
+- **[Darqo AI](https://darqo.ai/):** Engineered sophisticated intelligent systems and automation frameworks, rapidly scaling the startup's AI-driven operational footprint ([LinkedIn](https://www.linkedin.com/in/darqo-ai-27380b324/)).
 
 ---
 
