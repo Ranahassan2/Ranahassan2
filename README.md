@@ -13,7 +13,7 @@ As an Artificial Intelligence Engineer and Head of AI, I specialize in driving c
 
 ### Startup Leadership Highlights
 
-- **[SEG Investment](https://www.linkedin.com/company/seginvestment/):** Led the comprehensive AI transformation strategy as Head of AI, pioneering the integration of scalable intelligence across enterprise systems.
+- **[SEG Investment](https://www.linkedin.com/company/seginvestment/):** Led the core AI transformation and strategic vision, positioning the company as an intelligent, data-driven investment powerhouse.
 - **[Zawolf AI](https://zawolf.ai/):** Spearheaded the foundational AI architecture and strategy, driving the core intelligence behind the startup's main product offerings ([LinkedIn](https://www.linkedin.com/company/zawolf/)).
 - **[Tebaba AI](http://tebaba.ai/):** Led the core AI strategy from conceptualization, directing the integration of advanced intelligent systems to power their platform ([LinkedIn](https://www.linkedin.com/company/tebaba/)).
 - **[Rabhan AI](https://rabhan.ai/):** Architected and deployed end-to-end machine learning pipelines, fundamentally transforming their business model with AI capabilities ([LinkedIn](https://www.linkedin.com/company/rabhan-ai/)).
