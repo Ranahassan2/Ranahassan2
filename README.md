@@ -13,16 +13,17 @@ As an Artificial Intelligence Engineer and Head of AI, I specialize in driving A
 
 ---
 
-### Core Competencies
+### Languages and Tools
 
-- **Artificial Intelligence:** Large Language Models (LLMs), Natural Language Processing (NLP), Predictive Analytics, Agentic Workflows.
-- **Machine Learning:** Deep Learning, Neural Networks, Scikit-Learn, TensorFlow, PyTorch.
-- **Software Engineering:** Python, TypeScript, React, Node.js, Next.js, Microservices Architecture.
-- **Data & Infrastructure:** Vector Databases, PostgreSQL, MongoDB, Cloud Deployment.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,docker,linux,ubuntu,git,github,aws,gcp,vscode,postman&perline=11" />
+  </a>
+</p>
 
 ---
 
-### Featured AI Architectures
+### Featured Enterprise AI Solutions
 
 - **Kesra Sales Hub:** Intelligent CRM platform featuring Machine Learning-based lead scoring and automated pipeline forecasting.
 - **Kesra KPI System:** Data-driven Key Performance Indicator tracking system powered by ML predictive analytics.
