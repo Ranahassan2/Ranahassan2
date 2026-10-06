@@ -1,49 +1,37 @@
-<h1 align="center">Hi 👋, I'm Rana Hassan</h1>
-<h3 align="center">AI Expert & Machine Learning Specialist 🤖 | Transforming data into intelligent solutions</h3>
+<h1 align="center">Rana Hassan</h1>
+<h3 align="center">Head of AI @ SEG | Artificial Intelligence Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ranahassan2&label=Profile%20views&color=8a2be2&style=flat" alt="Ranahassan2" />
+  Building Intelligent Systems, Autonomous Agents, and Scalable SaaS Products.
 </p>
 
 ---
 
-### 🧠 About Me
+### Executive Summary
 
-- 🔭 I’m currently working on **Advanced AI Models, LLMs, & Predictive Analytics**
-- 🌱 I’m currently exploring **Deep Learning architectures & NLP advancements**
-- 💬 Ask me about **Machine Learning, Neural Networks, Python, and AI integrations**
-- 📫 How to reach me: **ranahassan@example.com**
-- ⚡ Fun fact: **I believe AI is not just about writing code; it's about teaching machines to understand the world.**
+As an Artificial Intelligence Engineer and Head of AI, I specialize in driving AI business transformation and leading the development of advanced AI architectures across multiple business sectors. My expertise lies in architecting Large Language Model (LLM) pipelines, deploying Retrieval-Augmented Generation (RAG) systems, and implementing predictive machine learning models to solve complex enterprise challenges.
 
 ---
 
-### 🛠️ Languages and Tools
+### Core Competencies
+
+- **Artificial Intelligence:** Large Language Models (LLMs), Natural Language Processing (NLP), Predictive Analytics, Agentic Workflows.
+- **Machine Learning:** Deep Learning, Neural Networks, Scikit-Learn, TensorFlow, PyTorch.
+- **Software Engineering:** Python, TypeScript, React, Node.js, Next.js, Microservices Architecture.
+- **Data & Infrastructure:** Vector Databases, PostgreSQL, MongoDB, Cloud Deployment.
+
+---
+
+### Featured AI Architectures
+
+- **Kesra Sales Hub:** Intelligent CRM platform featuring Machine Learning-based lead scoring and automated pipeline forecasting.
+- **Kesra KPI System:** Data-driven Key Performance Indicator tracking system powered by ML predictive analytics.
+- **Kesra AI Customer Retention Agent:** Autonomous RAG-based agent utilizing semantic search and sentiment analysis for automated client engagement.
+- **Kesra Agency System:** AI-augmented agency management system with intelligent workflow automation.
+
+---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,docker,linux,git,github,js,ts,react&perline=12" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranahassan2&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranahassan2&layout=compact&theme=dracula&hide_border=true" height="150" alt="top languages graph"  />
-</div>
-
----
-
-### ✨ My Top AI Projects
-
-* **[Kesra--Sales--Hub](https://github.com/Ranahassan2/Kesra--Sales--Hub)** - Intelligent CRM sales hub featuring ML-based lead scoring and automated pipeline optimization.
-* **[kesra-KPI-system](https://github.com/Ranahassan2/kesra-KPI-system)** - Data-driven KPI tracking system powered by ML forecasting.
-* **[Kesra-AI-Customer-Retention-Agent](https://github.com/Ranahassan2/Kesra-AI-Customer-Retention-Agent)** - LLM-driven customer retention agent using semantic search (RAG) and sentiment analysis.
-* **[kesra-agency-system](https://github.com/Ranahassan2/kesra-agency-system)** - AI-augmented agency management system with predictive analytics.
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer"/>
+  <i>"Transforming complex data into intelligent, scalable solutions."</i><br><br>
+  <a href="https://www.linkedin.com/in/rana-hassan-34b01924a/">LinkedIn</a>
 </p>
