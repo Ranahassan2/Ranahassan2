@@ -13,12 +13,12 @@ As an Artificial Intelligence Engineer and Head of AI, I specialize in driving c
 
 ### Startup Leadership Highlights
 
-- **[SEG Investment](https://www.linkedin.com/company/seginvestment/):** Led the core AI transformation and strategic vision, positioning the company as an intelligent, data-driven investment powerhouse.
-- **[Zawolf AI](https://zawolf.ai/):** Spearheaded the foundational AI architecture and strategy, driving the core intelligence behind the startup's main product offerings ([LinkedIn](https://www.linkedin.com/company/zawolf/)).
-- **[Tebaba AI](http://tebaba.ai/):** Led the core AI strategy from conceptualization, directing the integration of advanced intelligent systems to power their platform ([LinkedIn](https://www.linkedin.com/company/tebaba/)).
-- **[Rabhan AI](https://rabhan.ai/):** Architected and deployed end-to-end machine learning pipelines, fundamentally transforming their business model with AI capabilities ([LinkedIn](https://www.linkedin.com/company/rabhan-ai/)).
-- **[Mohark AI](https://mohark.ai/):** Directed the design and implementation of advanced AI solutions, engineering robust architectures that drive autonomous enterprise capabilities ([LinkedIn](https://www.linkedin.com/company/mohark-ai/)).
-- **[Darqo AI](https://darqo.ai/):** Engineered sophisticated intelligent systems and automation frameworks, rapidly scaling the startup's AI-driven operational footprint ([LinkedIn](https://www.linkedin.com/in/darqo-ai-27380b324/)).
+- **[SEG Investment](https://www.linkedin.com/company/seginvestment/):** *(Financial & Investment)* Led the AI transformation and strategic vision, positioning the firm as a data-driven investment powerhouse using predictive analytics.
+- **[Zawolf AI](https://zawolf.ai/):** *(AI EdTech & B2B Solutions)* Spearheaded the foundational AI architecture for enterprise solutions and intelligent developer training platforms ([LinkedIn](https://www.linkedin.com/company/zawolf/)).
+- **[Tebaba AI](http://tebaba.ai/):** *(Healthcare Tech)* Directed the integration of advanced intelligent systems and medical symptom-checkers to power their platform ([LinkedIn](https://www.linkedin.com/company/tebaba/)).
+- **[Rabhan AI](https://rabhan.ai/):** *(E-commerce AI)* Architected end-to-end machine learning pipelines that automate marketing and sales forecasting for digital stores ([LinkedIn](https://www.linkedin.com/company/rabhan-ai/)).
+- **[Mohark AI](https://mohark.ai/):** *(AI SEO & GEO)* Designed robust architectures to optimize enterprise content generation and visibility across Generative AI search engines ([LinkedIn](https://www.linkedin.com/company/mohark-ai/)).
+- **[Darqo AI](https://darqo.ai/):** *(AI Automation)* Engineered sophisticated intelligent systems and automation frameworks, rapidly scaling the startup's operational footprint ([LinkedIn](https://www.linkedin.com/in/darqo-ai-27380b324/)).
 
 ---
 
