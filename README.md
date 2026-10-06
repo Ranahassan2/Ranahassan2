@@ -9,7 +9,7 @@
 
 ### Executive Summary
 
-As an Artificial Intelligence Engineer and Head of AI, I specialize in driving AI business transformation and leading the development of advanced AI architectures across multiple business sectors. My expertise lies in architecting Large Language Model (LLM) pipelines, deploying Retrieval-Augmented Generation (RAG) systems, and implementing predictive machine learning models to solve complex enterprise challenges.
+As an Artificial Intelligence Engineer and Head of AI, I specialize in driving complete AI business transformations. I have successfully spearheaded the AI integration strategy for **4 different startup companies**, managing the entire lifecycle from the very first conceptualization of introducing AI, all the way to deploying enterprise-grade machine learning and LLM architectures. My expertise lies in architecting scalable pipelines, deploying RAG systems, and executing visionary AI strategies that fundamentally change how companies operate.
 
 ---
 
