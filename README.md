@@ -19,6 +19,7 @@ As an Artificial Intelligence Engineer and Head of AI, I specialize in driving c
 - **[Rabhan AI](https://rabhan.ai/):** *(E-commerce AI)* Architected end-to-end machine learning pipelines that automate marketing and sales forecasting for digital stores ([LinkedIn](https://www.linkedin.com/company/rabhan-ai/)).
 - **[Mohark AI](https://mohark.ai/):** *(AI SEO & GEO)* Designed robust architectures to optimize enterprise content generation and visibility across Generative AI search engines ([LinkedIn](https://www.linkedin.com/company/mohark-ai/)).
 - **[Darqo AI](https://darqo.ai/):** *(AI Automation)* Engineered sophisticated intelligent systems and automation frameworks, rapidly scaling the startup's operational footprint ([LinkedIn](https://www.linkedin.com/in/darqo-ai-27380b324/)).
+- **[7D HUB](https://7d-summit.7dhub.co/):** *(Venture Studio Fund)* Focused on supporting, creating, and developing startups through strategic guidance and funding ([LinkedIn](https://www.linkedin.com/company/7d-hub/)).
 
 ---
 
