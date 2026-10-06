@@ -11,6 +11,11 @@
 
 As an Artificial Intelligence Engineer and Head of AI, I specialize in driving complete AI business transformations. I have successfully spearheaded the AI integration strategy for **4 different startup companies**, managing the entire lifecycle from the very first conceptualization of introducing AI, all the way to deploying enterprise-grade machine learning and LLM architectures. My expertise lies in architecting scalable pipelines, deploying RAG systems, and executing visionary AI strategies that fundamentally change how companies operate.
 
+### Startup Leadership Highlights
+
+- **[Tebaba AI](http://tebaba.ai):** Led the core AI strategy and architecture from conceptualization. Directed the integration of advanced intelligent systems to power their core product ([LinkedIn](https://www.linkedin.com/company/tebaba/)).
+- **Strategic Advisor for 3 Additional Startups:** Scaled AI infrastructure and engineered end-to-end data pipelines, fundamentally transforming their business models.
+
 ---
 
 ### Languages and Tools
